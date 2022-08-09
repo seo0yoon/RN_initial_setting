@@ -1,1 +1,1 @@
-RN_initial_setting
+//RN_initial_setting
